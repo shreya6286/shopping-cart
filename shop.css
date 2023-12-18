@@ -1,0 +1,138 @@
+.bg{
+    background-color: powderblue;
+    height: 100%;
+    padding: 50px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.view{
+    width: 1330px;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 30px;
+    padding-bottom: 40px;
+    box-shadow: 5px 5px 15px black;
+}
+
+.banner{
+    height: 50px;
+    border: 1px solid white;
+    border-bottom-style: solid;
+    border-bottom-color: teal;
+    border-bottom-width: 2px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    font-family: serif;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 30px;
+}
+
+.panel{
+    background-color: rgb(241, 241, 241);
+    height: 250px;
+    margin-top: 38px;
+    width: 1250px;
+    margin-left: 38px;
+    border: 1px solid rgb(241, 241, 241);
+    border-radius: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 2fr 2fr 2fr 1fr 1fr;
+    box-shadow: 5px 5px 15px gray;
+}
+
+.imgg{
+    height: 250px;
+    padding-top: 15px;
+}
+
+.btn{
+    background-color: teal;
+    width: 95px;
+    height: 50px;
+    font-size: 17px;
+    margin-top: 95px;
+    font-weight: bold;
+    color: white;
+    border: 1px solid teal;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.btn:hover{
+    cursor: pointer;
+    background-color: rgb(0, 63, 63);
+}
+
+.cross{
+    width: 50px;
+    height: 50px;
+    margin-top: 100px;
+    margin-left: 30px;
+    font-size: 20px;
+    border: 1px solid rgb(190, 190, 190);
+    border-radius: 50px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.cross:hover {
+    background-color: rgb(190, 190, 190);
+    cursor: pointer;
+}
+
+h2{
+    margin-top: 80px;
+}
+
+h3{
+    margin-top: 5px;
+    font-weight: normal;
+}
+
+h5{
+    margin-top: 10px;
+    font-weight: lighter;
+}
+
+.cost{
+    font-size: 25px;
+    font-weight: bolder;
+    margin-top: 105px;
+}
+
+.wish{
+    margin-top: 95px;
+    border: 1px solid rgb(241, 241, 241);
+}
+
+.wish:hover{
+    cursor: pointer;
+    background-color: rgb(231, 229, 229);
+}
+
+.quantity{
+    margin-top: 10px;
+    margin-left: 30px;
+    height: 30px;
+    width: 130px;
+    font-size: 20px;
+    text-align: center;
+    border: 2px solid teal;
+    box-shadow: 3px 3px 7px gray;
+}
+
+.enter{
+    font-size: 15px;
+    margin-top: 75px;
+    margin-left: 30px;
+}
+
+
+.newbtn{
+    padding: 10px;
+    background-color: hotpink;
+}

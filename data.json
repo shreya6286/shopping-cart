@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Apple iPhone 12",
+        "feature": "(64 GB) - Blue",
+        "descr": "Save extra with no cost EMI",
+        "price": 59990,
+        "image": "./assets/mob4.jpg"
+        
+    },
+    {
+        "id": 2,
+        "name": "Realme narzo 50i",
+        "feature": "(64 GB) - Carbon Black",
+        "descr": "10% off",
+        "price": 7499,
+        "image": "./assets/mob3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Apple iPhone 12",
+        "feature": "(128 GB) - Green",
+        "descr": "Save extra with no cost EMI",
+        "price": 60990,
+        "image": "./assets/mob5.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Redmi note 11S",
+        "feature": "(128 GB) - Polar White",
+        "descr": "Save extra with no cost EMI",
+        "price": 16999,
+        "image": "./assets/mob1.jpg"
+    }
+]
